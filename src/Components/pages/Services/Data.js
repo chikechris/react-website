@@ -8,7 +8,7 @@ export const homeObjOne = {
     'Get access to our exclusive diamond card that allows you to  send unlimited transactions without getting charged any fees',
   buttonLabel: 'Get Started',
   imgStart: '',
-  img: 'pic-1.jpg',
+  img: 'images/svg-1.svg',
   alt: 'Credit Card'
 };
 

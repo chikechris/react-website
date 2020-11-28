@@ -2,13 +2,13 @@ export const homeObjOne = {
   lightBg: false,
   lightText: true,
   lightTextDesc: true,
-  topLine: 'Exclusive Access',
-  headline: 'Unlimited Transactions with zero fees',
+  topLine: 'SIGN UP TODAY',
+  headline: 'Join today to receive an exclusive offer',
   description:
     'Get access to our exclusive diamond card that allows you to  send unlimited transactions without getting charged any fees',
-  buttonLabel: 'Get Started',
+  buttonLabel: 'Sign Up',
   imgStart: '',
-  img: 'pic-1.jpg',
+  img: 'images/svg-6.svg',
   alt: 'Credit Card'
 };
 

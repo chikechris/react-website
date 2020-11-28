@@ -35,7 +35,7 @@ const Navbar = () => {
       <div className="navbar-container container" >
         <Link to='/' className="navbar-logo" onClick={closeMobileMenu}>
           <MdWatch className='navbar-icon' />
-          Watches
+          Mansh
         </Link>
         <div className='menu-icon' onClick={handleClick}>
           {click ? <FaTimes /> : <FaBars />}
